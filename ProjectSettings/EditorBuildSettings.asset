@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Intro.unity
+    guid: 44977efc9b92251418dbd3cb5ad2ca69
+  - enabled: 1
+    path: Assets/Scenes/LilysOffice.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Computer.unity
+    guid: 87c585ce240e6264499731091c21ac5c
+  - enabled: 1
+    path: Assets/Scenes/Lab.unity
+    guid: f8597db2fc737e445a7bbd8d5879d95c
+  - enabled: 1
+    path: Assets/Scenes/Drimsapace.unity
+    guid: 0f659086ebc14814e8d08897cc0b6e4e
+  - enabled: 1
+    path: Assets/Scenes/GoodEnding.unity
+    guid: 3df5e0f70484c984eb3f3a8be3b9456f
+  - enabled: 1
+    path: Assets/Scenes/BadEnding.unity
+    guid: 45d9568a044ccd54b86fcdb1e4793672
+  m_configObjects: {}
